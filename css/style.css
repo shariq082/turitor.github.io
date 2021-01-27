@@ -155,7 +155,7 @@ border-radius: 100%;position: absolute; top: 120px; right:40px}
     .cyan{top: 125px;}
         }
 @media(max-width:360px){
-    .about{padding-top:-28px;}
+    .about{padding-top:-80px;}
 }
 /*----------------------degree-----------------------*/
 .degree{padding: 50px 10px; background:#f5f5f5;}
