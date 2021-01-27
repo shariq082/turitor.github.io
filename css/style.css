@@ -99,10 +99,10 @@ height: 50px; left:460px; bottom:270px; display: block;}
 /*
 @media(max-width:414px){
     .bg-1, .bg-2, .bg-3{height: 100vh;}
-}
-@media(max-width:375px){
-    .bg-1, .bg-2, .bg-3{height: 110vh;}
-}  */
+}*/
+@media(max-width:380px){
+    .bg-1, .bg-2, .bg-3{height: 130vh;}
+}  
  @media(max-width:360px){
     .line-1{height: 250px; left:10px; top:210px;width: 8px;}
      .line-2{top:205px; left: 10px; width:250px; height: 8px;}
