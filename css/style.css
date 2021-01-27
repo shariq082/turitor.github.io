@@ -411,7 +411,7 @@ margin-top:20px; padding:10px 20px; text-align: center;}
     .ls h1{font-style: 30px;}
     .ls p{font-size: 20px;}
     .bg-img{text-align: center;}
-    .bg-img p{left:0px; font-size: 150x;}
+    .bg-img p{ position:absolute; left:0px;}  
 }
 @media(max-width:411px){
     .ls{padding:50px 20px;}
