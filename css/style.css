@@ -83,6 +83,7 @@ height: 50px; left:460px; bottom:270px; display: block;}
     .line-5{left:290px; bottom:150px;height: 30px;}
     .content{top:250px; left: 40px; width: 330px;} 
     .navbar{padding:0 10px;}
+   .about{margin-top:-20px;}
 }
 /*
 @media(max-width:411px){
