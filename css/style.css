@@ -199,13 +199,6 @@ font-size: 50px;padding:50px; border-radius:100%; width:50px;
     .degree h1{font-size: 35px;}
     .icon{position: absolute; top:75%; left:50%; transform:translate(-50%, -50%);}  
 }
-@media(max-width:568px){
-
-.owl-carousel .owl-nav button.owl-next {
-font-size: 20px;padding:20px; width:20px;}
- .owl-carousel .owl-nav button.owl-prev{
-    font-size: 20px;padding:20px; width:20px;}
-}
 
 @media(max-width:540px){
     
