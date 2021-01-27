@@ -75,7 +75,9 @@ height: 50px; left:460px; bottom:270px; display: block;}
 @media(max-width:576px){
     .content{top:250px; left: 80px; width: 430px;} 
 }
-
+@media(max-width:540px){
+    .bg-1, .bg-2, .bg-3{height: 110vh;}
+}
 @media(max-width:485px){
     .dropdown-menu{margin-top: 0px; border:none;}
     .dropdown-menu .dropdown-item{padding:0; margin:10px 0;}
