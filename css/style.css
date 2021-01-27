@@ -152,6 +152,7 @@ border-radius: 100%;position: absolute; top: 120px; right:40px}
     .green{ top: 125px;}
     .left-side{ top: 125px; left:40px}
     .cyan{top: 125px;}
+    .about{margin-top:-40px; }
         }
 /*----------------------degree-----------------------*/
 .degree{padding: 50px 10px; background:#f5f5f5;}
