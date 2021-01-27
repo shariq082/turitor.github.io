@@ -116,8 +116,8 @@ height: 50px; left:460px; bottom:270px; display: block;}
      .content .btn-1a, .btn-2a{width:100px; font-size: 10px;}
      .bg-1, .bg-2, .bg-3{height: 100vh;} 
  }  
- @media(max-width:320px){
-    .bg-1, .bg-2, .bg-3{height: 100vh;}
+ @media(max-width:365px){
+    .bg-1, .bg-2, .bg-3{height: 130vh;}
 } 
 /*------------------about ---------------*/
 .about{margin-top:-80px; padding-bottom: 50px;}
