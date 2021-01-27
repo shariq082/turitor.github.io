@@ -425,7 +425,8 @@ margin-top:20px; padding:10px 20px; text-align: center;}
 @media(max-width:360px){
     .ls{padding:80px 40px;}
     .ls h1{font-size: 30px; padding:25px 0px;  line-height: 40px;}
-    .ls p{font-size: 15px;  padding-bottom:20px; line-height: 20px;}  
+    .ls p{font-size: 15px;  padding-bottom:20px; line-height: 20px;} 
+    .bg-img p{left:0px; font-size: 150x; line-height: 30px; padding:5px;
 }
 @media(max-width:340px){
     .ls{padding: 40px;}
