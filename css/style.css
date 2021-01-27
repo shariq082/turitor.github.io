@@ -350,7 +350,7 @@ left: -100%; transition: all linear 0.3s;}
     .bt-11{top:53%; left: 30%;}
 }
 @media(max-width:325px){
-    .shutter{padding:10px ;}
+    .shutter{padding:40px 20px ;}
     .bt-1{top:50%; left: 30%;} 
     .bt-3{top:50%; left: 30%;}
     .bt-5{top:50%; left: 30%;}
