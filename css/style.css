@@ -116,20 +116,14 @@ height: 50px; left:460px; bottom:270px; display: block;}
 @media(max-width:380px){
     .bg-1, .bg-2, .bg-3{height: 130vh;}
 }  
-
+*/
  @media(max-width:360px){
-    .line-1{height: 250px; left:10px; top:150px;width: 8px;}
-     .line-2{top:145px; left: 10px; width:250px; height: 8px;}
-     .line-3{ bottom:110px; left: 10px; width:250px; height: 8px;}
-     .line-4{left:258px; top:117px; width: 8px; height:20px ;}
-     .line-5{left:258px; bottom:138px; height:20px; width: 8px;}
-     .content{top:190px; left: 30px; width:300px;} 
-     .content{padding-right:20px;}
-     .content h1{font-size:25px;}
-     .content h6{font-size:15px;}
-     .content .btn-1a, .btn-2a{width:100px; font-size: 10px;} 
+  
      .bg-1, .bg-2, .bg-3{height: 100vh;}
  }  
+@media(max-width:340px){
+     .bg-1, .bg-2, .bg-3{height: 130vh;}
+}
  @media(max-width:320px){
     .bg-1, .bg-2, .bg-3{height: 130vh;}
 } 
