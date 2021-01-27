@@ -334,7 +334,7 @@ left: -100%; transition: all linear 0.3s;}
     .shutter{padding:100px 50px;}   
 }
 @media(max-width:380px){
-    .shutter{padding:10px ;}
+    .shutter{padding:40px 20px ;}
     .bt-1{top:57%; left: 30%;} 
     .bt-3{top:57%; left: 30%;}
     .bt-5{top:57%; left: 30%;}
