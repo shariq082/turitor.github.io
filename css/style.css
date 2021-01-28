@@ -119,7 +119,8 @@ height: 50px; left:460px; bottom:270px; display: block;}
 */
  @media(max-width:360px){
   
-     .bg-1, .bg-2, .bg-3{height: 100vh;}
+     .bg-1, .bg-2, .bg-3{height: 130vh;}
+   .about{margin-top:-40px;}
  }  
 @media(max-width:340px){
      .bg-1, .bg-2, .bg-3{height: 130vh;}
